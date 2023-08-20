@@ -1,5 +1,3 @@
-# Panel 库示例
-# pip install panel
 import panel as pn
 import time
 
